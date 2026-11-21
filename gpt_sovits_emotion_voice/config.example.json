@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "add_emotion_field": true,
+  "active_character": "kukuri",
+  "whisper": {
+    "audio_path": "",
+    "model_size": "large-v3",
+    "model_path": "",
+    "language": "auto",
+    "task": "transcribe"
+  }
+}

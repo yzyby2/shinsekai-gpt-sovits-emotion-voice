@@ -1,0 +1,2 @@
+# 本插件无额外 Python 依赖。
+# 可选：Whisper 分页需要 faster-whisper（通常启用 whisper_asr 插件时会一并安装）。

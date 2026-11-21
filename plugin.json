@@ -1,0 +1,10 @@
+{
+  "display_name": "GPT-SoVITS 多参考语音插件",
+  "desc": "按角色配置多条带情绪标注的参考语音，对话时由 AI 按台词情绪自动切换；支持每条单独采样步数、无参考文本模式，以及音频检测/转换与 Whisper 转写工具页。",
+  "author": "yzyby2",
+  "repo": "https://github.com/yzyby2/shinsekai-gpt-sovits-emotion-voice",
+  "entry": "plugins.gpt_sovits_emotion_voice.plugin:GptSovitsEmotionVoicePlugin",
+  "tags": ["TTS", "GPT-SoVITS", "语音", "情绪"],
+  "lowest_shinsekai_version": "2.3.1",
+  "social_link": "https://github.com/yzyby2"
+}
